@@ -1,0 +1,31 @@
+h1 {
+    color:#CC6900;
+    font-weight:500;
+    font-family:Algerian;
+    .subrayar {text-decoration: underline;}
+    }
+h2 {
+    color:#05CC50;
+    font-weight:500;
+    font-family:Castellar;
+    }
+h3 {
+    color:#0564f3;
+    font-weight:400;
+    font-family:Calibri;
+    } 
+h4 {
+    color:#1c293b;
+    font-size:large;
+    font-weight:400;
+    font-family:Calibri;
+    .subrayar {text-decoration: underline;}
+    } 
+header {
+        color:#b61d09;
+        font-weight:500;
+        font-family:Castellar;
+        }   
+p {
+    background-color:#00C900;
+    }   
